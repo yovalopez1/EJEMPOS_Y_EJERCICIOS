@@ -1,0 +1,18 @@
+
+
+body{
+    background: black;
+}
+
+.video{
+    background: darkgrey;
+}
+
+h1{
+    text-align: center;
+    color: rgba(202, 23, 23, 0.911);
+}
+
+h2{
+    color: rgba(3, 6, 114, 0.911);
+}
